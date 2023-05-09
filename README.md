@@ -1,6 +1,6 @@
 # Warehouse-Wreckage
  
- Small game created using Unreal Engine 5 for practice.
+ Small learning project created using Unreal Engine 5 for practice.
  Learned more about how physics works in UE5, and how to use the Blueprint coding language.
  
  
